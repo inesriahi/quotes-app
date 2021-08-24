@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.1acaac75.chunk.js": "/quotes-app/static/js/0.1acaac75.chunk.js",
+    "static/js/0.1acaac75.chunk.js.map": "/quotes-app/static/js/0.1acaac75.chunk.js.map",
+    "main.css": "/quotes-app/static/css/main.d9eab841.chunk.css",
+    "main.js": "/quotes-app/static/js/main.5ff9e26a.chunk.js",
+    "main.js.map": "/quotes-app/static/js/main.5ff9e26a.chunk.js.map",
+    "runtime-main.js": "/quotes-app/static/js/runtime-main.fcc18b6f.js",
+    "runtime-main.js.map": "/quotes-app/static/js/runtime-main.fcc18b6f.js.map",
+    "static/js/3.60bd2d8a.chunk.js": "/quotes-app/static/js/3.60bd2d8a.chunk.js",
+    "static/js/3.60bd2d8a.chunk.js.map": "/quotes-app/static/js/3.60bd2d8a.chunk.js.map",
+    "static/css/4.179c550a.chunk.css": "/quotes-app/static/css/4.179c550a.chunk.css",
+    "static/js/4.db876295.chunk.js": "/quotes-app/static/js/4.db876295.chunk.js",
+    "static/js/4.db876295.chunk.js.map": "/quotes-app/static/js/4.db876295.chunk.js.map",
+    "static/css/5.b997b910.chunk.css": "/quotes-app/static/css/5.b997b910.chunk.css",
+    "static/js/5.439b6f03.chunk.js": "/quotes-app/static/js/5.439b6f03.chunk.js",
+    "static/js/5.439b6f03.chunk.js.map": "/quotes-app/static/js/5.439b6f03.chunk.js.map",
+    "static/css/6.a66b4a35.chunk.css": "/quotes-app/static/css/6.a66b4a35.chunk.css",
+    "static/js/6.15800f44.chunk.js": "/quotes-app/static/js/6.15800f44.chunk.js",
+    "static/js/6.15800f44.chunk.js.map": "/quotes-app/static/js/6.15800f44.chunk.js.map",
+    "static/js/7.0e2ab5e4.chunk.js": "/quotes-app/static/js/7.0e2ab5e4.chunk.js",
+    "static/js/7.0e2ab5e4.chunk.js.map": "/quotes-app/static/js/7.0e2ab5e4.chunk.js.map",
+    "index.html": "/quotes-app/index.html",
+    "static/css/4.179c550a.chunk.css.map": "/quotes-app/static/css/4.179c550a.chunk.css.map",
+    "static/css/5.b997b910.chunk.css.map": "/quotes-app/static/css/5.b997b910.chunk.css.map",
+    "static/css/6.a66b4a35.chunk.css.map": "/quotes-app/static/css/6.a66b4a35.chunk.css.map",
+    "static/css/main.d9eab841.chunk.css.map": "/quotes-app/static/css/main.d9eab841.chunk.css.map",
+    "static/js/3.60bd2d8a.chunk.js.LICENSE.txt": "/quotes-app/static/js/3.60bd2d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc18b6f.js",
+    "static/js/3.60bd2d8a.chunk.js",
+    "static/css/main.d9eab841.chunk.css",
+    "static/js/main.5ff9e26a.chunk.js"
+  ]
+}
